@@ -8,8 +8,8 @@ import java.net.InetAddress;
 *  Receives a line of input from a UDP client
 *  Returns an upper case version of the line to the client.
 *
-*  @author: Michael Fahy
-*     email: fahy@chapman.edu
+*  @author: Joshua Yang
+*     email: joyang@chapman.edu
 *     date: 2/20/2021
 *  @version: 3.1
 */
